@@ -1,5 +1,8 @@
 # Byeongin Jeun
 <img src = "./Byeongin_Jeun.jpg" width="116px" height="156px">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean429&count_bg=%23CFFFAB&title_bg=%23A2F0FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BottleIn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Introduction
 
